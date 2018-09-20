@@ -7,3 +7,5 @@
 - [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 - [Sexy Typography: CSS Tutorial (Day 2 of CSS3 in 30 Days)
 ](https://www.youtube.com/watch?v=LrZNeyK1xU8)
+- [React Component Lifecycle - Hooks / Methods Explained
+](https://www.youtube.com/watch?v=m_mtV4YaI8c)
