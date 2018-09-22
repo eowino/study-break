@@ -15,3 +15,5 @@
 ](https://www.youtube.com/watch?v=m_mtV4YaI8c)
 - [How to use TypeScript in React](https://www.youtube.com/watch?v=dy9gr94s6ZY)
 - [freeCodeCamp's Front End Libraries Developer Certification](https://www.freecodecamp.org/certification/eowino/front-end-libraries)
+- [Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart
+](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
