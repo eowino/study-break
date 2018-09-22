@@ -13,3 +13,4 @@
 ](https://www.youtube.com/watch?v=LrZNeyK1xU8)
 - [React Component Lifecycle - Hooks / Methods Explained
 ](https://www.youtube.com/watch?v=m_mtV4YaI8c)
+- [How to use TypeScript in React](https://www.youtube.com/watch?v=dy9gr94s6ZY)
