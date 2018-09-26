@@ -19,3 +19,4 @@
 ](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
 - [Dan Abramov: Beyond React 16 | JSConf Iceland 2018
 ](https://www.youtube.com/watch?v=nLF0n9SACd4)
+- [React... Suspense... (@ SLC frontend meetup)](https://www.youtube.com/watch?v=7LmrS2sdMlo)
