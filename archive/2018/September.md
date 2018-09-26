@@ -17,3 +17,5 @@
 - [freeCodeCamp's Front End Libraries Developer Certification](https://www.freecodecamp.org/certification/eowino/front-end-libraries)
 - [Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart
 ](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
+- [Dan Abramov: Beyond React 16 | JSConf Iceland 2018
+](https://www.youtube.com/watch?v=nLF0n9SACd4)
