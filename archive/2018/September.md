@@ -15,3 +15,4 @@
 - [Dan Abramov: Beyond React 16 | JSConf Iceland 2018](https://www.youtube.com/watch?v=nLF0n9SACd4)
 - [React... Suspense... (@ SLC frontend meetup)](https://www.youtube.com/watch?v=7LmrS2sdMlo)
 - [Dan Abramov - Suspense! - ReactFest 🎡](https://www.youtube.com/watch?v=6g3g0Q_XVb4)
+- [Build Your Own RxJS Pipeable Operators](https://egghead.io/courses/build-your-own-rxjs-pipeable-operators)
