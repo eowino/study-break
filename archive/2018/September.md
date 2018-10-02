@@ -16,3 +16,5 @@
 - [React... Suspense... (@ SLC frontend meetup)](https://www.youtube.com/watch?v=7LmrS2sdMlo)
 - [Dan Abramov - Suspense! - ReactFest 🎡](https://www.youtube.com/watch?v=6g3g0Q_XVb4)
 - [Build Your Own RxJS Pipeable Operators](https://egghead.io/courses/build-your-own-rxjs-pipeable-operators)
+- [Ryan Florence - Don't Rewrite, React! at react-europe 2015
+](https://www.youtube.com/watch?v=BF58ZJ1ZQxY)
