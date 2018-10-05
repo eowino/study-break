@@ -18,3 +18,5 @@
 - [Build Your Own RxJS Pipeable Operators](https://egghead.io/courses/build-your-own-rxjs-pipeable-operators)
 - [Ryan Florence - Don't Rewrite, React! at react-europe 2015
 ](https://www.youtube.com/watch?v=BF58ZJ1ZQxY)
+- [The introduction to React you've been missing](https://www.youtube.com/watch?v=pugPxYH96TU)
+- [Keep Betting on JavaScript](https://www.youtube.com/watch?v=ixzK0jqLO70)
