@@ -8,3 +8,4 @@
 - [Building Real World Desktop Apps with Electron](https://www.youtube.com/watch?v=iVdXOrtdHvA)
 - [A Beginner's Guide to WebSockets](https://www.youtube.com/watch?v=FmaBZcQzL-Y)
 - [Chrome 70 - What’s New in DevTools](https://www.youtube.com/watch?v=LJq8vg8ktdQ)
+- [Build a C# .NET Application in 60 Minutes](https://www.youtube.com/watch?v=GcFJjpMFJvI)
