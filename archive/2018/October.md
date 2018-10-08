@@ -10,3 +10,4 @@
 - [Chrome 70 - What’s New in DevTools](https://www.youtube.com/watch?v=LJq8vg8ktdQ)
 - [Build a C# .NET Application in 60 Minutes](https://www.youtube.com/watch?v=GcFJjpMFJvI)
 - [MountainWest JavaScript 2014 - Bringing the Web Back to the Blind by Ryan Florence](https://www.youtube.com/watch?v=YuzS-g6Qvq8)
+- [A Beginner's Guide to JavaScript's Prototype](https://www.youtube.com/watch?v=XskMWBXNbp0)
