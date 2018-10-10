@@ -12,7 +12,7 @@
 - [MountainWest JavaScript 2014 - Bringing the Web Back to the Blind by Ryan Florence](https://www.youtube.com/watch?v=YuzS-g6Qvq8)
 - [A Beginner's Guide to JavaScript's Prototype](https://www.youtube.com/watch?v=XskMWBXNbp0)
 - [ES Next Features That'll Make You Dance](https://www.youtube.com/watch?v=9yK4t2CuIHQ)
-- []()
+- [A Pragmatist's Guide to ReasonML || Marcel Cutts](https://www.youtube.com/watch?v=8JfRlijbxlE)
 - []()
 - []()
 - []()
