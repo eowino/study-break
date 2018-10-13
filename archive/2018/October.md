@@ -14,7 +14,7 @@
 - [ES Next Features That'll Make You Dance](https://www.youtube.com/watch?v=9yK4t2CuIHQ)
 - [A Pragmatist's Guide to ReasonML || Marcel Cutts](https://www.youtube.com/watch?v=8JfRlijbxlE)
 - [OSCON 2014: How Instagram.com Works; Pete Hunt](https://www.youtube.com/watch?v=VkTCL6Nqm6Y)
-- []()
+- [npm and the Future of JavaScript](https://www.youtube.com/watch?v=Qa4dxW-Qi2s)
 - []()
 - []()
 - []()
