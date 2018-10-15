@@ -15,7 +15,7 @@
 - [A Pragmatist's Guide to ReasonML || Marcel Cutts](https://www.youtube.com/watch?v=8JfRlijbxlE)
 - [OSCON 2014: How Instagram.com Works; Pete Hunt](https://www.youtube.com/watch?v=VkTCL6Nqm6Y)
 - [npm and the Future of JavaScript](https://www.youtube.com/watch?v=Qa4dxW-Qi2s)
-- []()
+- [egghead.io developer chats: Learning and Experimenting with Physical and Digital Mediums with Keith Peters](https://player.fm/series/eggheadio-developer-chats-1728019/learning-and-experimenting-with-the-physical-and-digital-with-keith-peters)
 - []()
 - []()
 - []()
