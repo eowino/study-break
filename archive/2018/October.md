@@ -19,6 +19,6 @@
 - [The State of JavaScript - The State of the Web](https://github.com/eowino/study-break)
 - [WebAssembly: Real World Applications](https://www.youtube.com/watch?v=ysFJHpS-O08)
 - [egghead.io course: Using WebAssembly with Rust](https://egghead.io/courses/using-webassembly-with-rust)
-- []()
+- [Intro Into TypeScript](https://www.youtube.com/watch?v=a6j0LRSJSCQ)
 - []()
 - []()
