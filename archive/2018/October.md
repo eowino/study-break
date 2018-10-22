@@ -20,5 +20,8 @@
 - [WebAssembly: Real World Applications](https://www.youtube.com/watch?v=ysFJHpS-O08)
 - [egghead.io course: Using WebAssembly with Rust](https://egghead.io/courses/using-webassembly-with-rust)
 - [Intro Into TypeScript](https://www.youtube.com/watch?v=a6j0LRSJSCQ)
+- [Pluralsight | Acceptance Testing in Node.js](https://app.pluralsight.com/library/courses/nodejs-acceptance-testing/table-of-contents)
+- [JSJ 319: Winamp2-js with Jordan Eldredge](https://devchat.tv/js-jabber/jsj-319-winamp2-js-with-jordan-eldredge/)
+- [HTTP2 In NodeJS Core](https://www.youtube.com/watch?v=BF7uv5fs440&t=1s)
 - []()
 - []()
