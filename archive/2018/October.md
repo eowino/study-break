@@ -23,5 +23,5 @@
 - [Pluralsight | Acceptance Testing in Node.js](https://app.pluralsight.com/library/courses/nodejs-acceptance-testing/table-of-contents)
 - [JSJ 319: Winamp2-js with Jordan Eldredge](https://devchat.tv/js-jabber/jsj-319-winamp2-js-with-jordan-eldredge/)
 - [HTTP2 In NodeJS Core](https://www.youtube.com/watch?v=BF7uv5fs440&t=1s)
-- []()
+- [React 16.6 - What's New? Theory + Practice](https://www.youtube.com/watch?v=BnasObkCGtQ)
 - []()
