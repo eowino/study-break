@@ -25,3 +25,4 @@
 - [HTTP2 In NodeJS Core](https://www.youtube.com/watch?v=BF7uv5fs440&t=1s)
 - [React 16.6 - What's New? Theory + Practice](https://www.youtube.com/watch?v=BnasObkCGtQ)
 - [WebAssembly Demystified: What It Means For NodeJS](https://www.youtube.com/watch?v=2TdySRdQHOo)
+- [KCD: Testing Q&A: You ask, I answer](https://www.youtube.com/watch?v=c2mY5UmO-KY)
