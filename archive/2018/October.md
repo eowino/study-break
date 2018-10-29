@@ -26,3 +26,4 @@
 - [React 16.6 - What's New? Theory + Practice](https://www.youtube.com/watch?v=BnasObkCGtQ)
 - [WebAssembly Demystified: What It Means For NodeJS](https://www.youtube.com/watch?v=2TdySRdQHOo)
 - [KCD: Testing Q&A: You ask, I answer](https://www.youtube.com/watch?v=c2mY5UmO-KY)
+- [React Today and Tomorrow - Sophie Alpert and Dan Abramov - React Conf 2018](https://www.youtube.com/watch?v=V-QO-KO90iQ&list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ&index=2&t=23s)
