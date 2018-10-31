@@ -28,4 +28,6 @@
 - [KCD: Testing Q&A: You ask, I answer](https://www.youtube.com/watch?v=c2mY5UmO-KY)
 - [React Today and Tomorrow - Sophie Alpert and Dan Abramov - React Conf 2018](https://www.youtube.com/watch?v=V-QO-KO90iQ&list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ&index=2&t=23s)
 - [90% Cleaner React - Ryan Florence - React Conf 2018](https://www.youtube.com/watch?v=wXLf18DsV-I&t=0s&index=3&list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ)
+- [Moving To Suspense - Jared Palmer - React Conf 2018](https://www.youtube.com/watch?v=SCQgE4mTnjU&t=0s&index=17&list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ)
+- [Block the Main Thread - James Long - React Conf 2018](https://www.youtube.com/watch?v=ZXqyaslyXUw&t=0s&index=25&list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ)
 - [Cypress End-to-End Testing](https://www.youtube.com/watch?v=7N63cMKosIE)
