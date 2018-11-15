@@ -6,3 +6,7 @@
 - [SVG Illustrations as React Components - Elizabet Oliveira - React Conf 2018](https://www.youtube.com/watch?v=1gG8rtm-rq4&list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ&index=18&t=0s)
 - [React For Social Change - Rodrigo Quezada - React Conf 2018](https://www.youtube.com/watch?v=tE-0xb2f44g&list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ&index=15&t=0s)
 - [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
+- [React Podcast 23: Ditch Authority with Sunil Pai](https://reactpodcast.simplecast.fm/23)
+- [React Podcast 26: Chill Out and Listen with Brad Frost](https://reactpodcast.simplecast.fm/26)
+- [React Podcast 25: Make Brilliant Messes with Diana Mounter and Emily Plummer](https://reactpodcast.simplecast.fm/25)
+- [React Podcast 24: Chase Whimsy with Burke Holland](https://reactpodcast.simplecast.fm/24)
