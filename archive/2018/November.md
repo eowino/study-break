@@ -10,3 +10,6 @@
 - [React Podcast 26: Chill Out and Listen with Brad Frost](https://reactpodcast.simplecast.fm/26)
 - [React Podcast 25: Make Brilliant Messes with Diana Mounter and Emily Plummer](https://reactpodcast.simplecast.fm/25)
 - [React Podcast 24: Chase Whimsy with Burke Holland](https://reactpodcast.simplecast.fm/24)
+- [18: Prepack and the Future of JavaScript Performance with Nikolai Tillmann](https://reactpodcast.simplecast.fm/18)
+- [17: Fast, Accessible, and Beautiful Drag and Drop with Alex Reardon](https://reactpodcast.simplecast.fm/17)
+- [GDG Salt Lake DevFest 2018: Why React Hooks](https://www.youtube.com/watch?v=zWsZcBiwgVE)
