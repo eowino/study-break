@@ -13,3 +13,5 @@
 - [18: Prepack and the Future of JavaScript Performance with Nikolai Tillmann](https://reactpodcast.simplecast.fm/18)
 - [17: Fast, Accessible, and Beautiful Drag and Drop with Alex Reardon](https://reactpodcast.simplecast.fm/17)
 - [GDG Salt Lake DevFest 2018: Why React Hooks](https://www.youtube.com/watch?v=zWsZcBiwgVE)
+- [React Podcast 3: The Future of React with Dan Abramov](https://reactpodcast.simplecast.fm/3)
+- [Architecting Web Apps - Lights, Camera, Action! (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=Vg60lf92EkM)
