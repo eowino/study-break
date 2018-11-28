@@ -16,3 +16,5 @@
 - [React Podcast 3: The Future of React with Dan Abramov](https://reactpodcast.simplecast.fm/3)
 - [Architecting Web Apps - Lights, Camera, Action! (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=Vg60lf92EkM)
 - [Taming Forms in React - JARED PALMER](https://www.youtube.com/watch?v=oiNtnehlaTo)
+- [Modern React Workshop: Hooks and Suspense](https://www.youtube.com/watch?v=xcZXS_VEJS0)
+- [Modern React Workshop: Hooks and Suspense (Part 2)](https://www.youtube.com/watch?v=NKAfuguroRY)
