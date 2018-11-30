@@ -18,3 +18,5 @@
 - [Taming Forms in React - JARED PALMER](https://www.youtube.com/watch?v=oiNtnehlaTo)
 - [Modern React Workshop: Hooks and Suspense](https://www.youtube.com/watch?v=xcZXS_VEJS0)
 - [Modern React Workshop: Hooks and Suspense (Part 2)](https://www.youtube.com/watch?v=NKAfuguroRY)
+- [How freeCodeCamp Serves Millions of Learners Using the JAMstack](https://www.youtube.com/watch?v=e5H7CI3yqPY)
+- [The All Powerful Front End Developer - Chris Coyier](https://www.youtube.com/watch?v=vXJpOHz3_sY)
