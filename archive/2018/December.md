@@ -2,3 +2,4 @@
 
 - [CSS Selectors in Depth](https://egghead.io/courses/css-selectors-in-depth)
 - [Old vs New JavaScript - HTTP203](https://www.youtube.com/watch?v=te3Zm4bHBVs)
+- [Contributing to Open Source on GitHub for beginners](https://www.youtube.com/watch?v=k6KcaMffxac)
