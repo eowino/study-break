@@ -6,3 +6,4 @@
 - [Why Do React Elements Have a $$typeof Property?](https://overreacted.io/why-do-react-elements-have-typeof-property/)
 - [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
 - [How Does React Tell a Class from a Function?](https://overreacted.io/how-does-react-tell-a-class-from-a-function/)
+- [Preventing cross-site scripting attacks when using innerHTML in vanilla JavaScript](https://gomakethings.com/preventing-cross-site-scripting-attacks-when-using-innerhtml-in-vanilla-javascript/)
