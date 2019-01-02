@@ -4,7 +4,7 @@
 - [Chain React 2018: Simply React by Kent C. Dodds](https://www.youtube.com/watch?v=M9X2qGddHkU)
 - [How open source has made me and the stuff I make better](https://www.youtube.com/watch?v=6mtPPkKchcQ)
 - [Concerning CSS in JS](https://www.youtube.com/watch?v=R1_nGU0x3Wk)
-- [Advanced React.js Free](https://courses.reach.tech/p/advanced-react-free)
+- [React.tech | Advanced React.js Free](https://courses.reach.tech/p/advanced-react-free)
 - []()
 - []()
 - []()
