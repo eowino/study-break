@@ -6,7 +6,7 @@
 - [Concerning CSS in JS](https://www.youtube.com/watch?v=R1_nGU0x3Wk)
 - [React.tech | Advanced React.js Free](https://courses.reach.tech/p/advanced-react-free)
 - [Start Learning React](https://egghead.io/courses/start-learning-react)
-- []()
+- [Simplify React Apps with React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)
 - []()
 - []()
 - []()
