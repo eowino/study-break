@@ -10,5 +10,5 @@
 - [React Podcast | 33: Transcendence and the Future of React with Laurie Voss](https://reactpodcast.com/33)
 - [Real Talk Javascript | Episode 13: Building Code Sandbox with Ives van Hoorne](https://realtalkjavascript.simplecast.fm/93ad4458)
 - [React Component Organization Tips](https://www.youtube.com/watch?v=n-bqy1WUphs)
-- []()
+- [macOS: Run a script on login](https://www.youtube.com/watch?v=mOXo-Yjr800) - My output [scripts](https://github.com/eowino/scripts)
 - []()
