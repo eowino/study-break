@@ -17,7 +17,7 @@
 - [Background Fetch - HTTP203](https://www.youtube.com/watch?v=cElAoxhQz6w)
 - [Async/Await - JavaScript Tutorial](https://www.youtube.com/watch?v=jAAmI5gMlVo)
 - [How NOT to test custom React hooks (and how to test them)](https://www.youtube.com/watch?v=0e6WCQYg5tU&t=21s)
-- []()
+- [React Podcast | 11: Inside React with Sophie Alpert](https://reactpodcast.com/11)
 - []()
 - []()
 - []()
