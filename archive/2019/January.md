@@ -20,7 +20,7 @@
 - [React Podcast | 11: Inside React with Sophie Alpert](https://reactpodcast.com/11)
 - [My Pull Request Review/Merge Workflow](https://www.youtube.com/watch?v=AgJGC5Vsxlo)
 - [My .bash_profile (how I have emojis in my terminal)](https://www.youtube.com/watch?v=CMILpbL6e88)
-- []()
+- [Using the new new setupFilesAfterEnv feature in Jest v24](https://www.youtube.com/watch?v=VZEszZxeJQs)
 - []()
 - []()
 - []()
