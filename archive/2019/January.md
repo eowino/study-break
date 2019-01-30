@@ -21,7 +21,7 @@
 - [My Pull Request Review/Merge Workflow](https://www.youtube.com/watch?v=AgJGC5Vsxlo)
 - [My .bash_profile (how I have emojis in my terminal)](https://www.youtube.com/watch?v=CMILpbL6e88)
 - [Using the new new setupFilesAfterEnv feature in Jest v24](https://www.youtube.com/watch?v=VZEszZxeJQs)
-- []()
+- [Named Imports vs Object Destructuring](https://www.youtube.com/watch?v=4keUSxNw-KE)
 - []()
 - []()
 - []()
