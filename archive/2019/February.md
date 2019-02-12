@@ -6,4 +6,8 @@
 - [Custom fetch hook that works with React Suspense](https://www.youtube.com/watch?v=PtoQpVOQ5Ew)
 - [Make a SUPER simple personal URL shortener with Netlify](https://www.youtube.com/watch?v=HL6paXyx6hM)
 - [The Road to Router v4 - Ryan Florence @ ReactNYC](https://www.youtube.com/watch?v=wPJxmZx62gI)
+- [What Hooks Mean for Vue](https://css-tricks.com/what-hooks-mean-for-vue/)
+- []()
+- []()
+- []()
 - []()
