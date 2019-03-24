@@ -6,7 +6,7 @@
 - [Learn Advanced CSS Layout Techniques](https://egghead.io/lessons/css-control-image-aspect-ratio-using-css)
 - [Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript) - [My notes](https://github.com/eowino/practical-advanced-typescript)
 - [Develop React Applications with Mobx and TypeScript](https://egghead.io/courses/develop-react-applications-with-mobx-and-typescript)
-- []()
+- [The difference between an expression and a statement in JavaScript](https://www.youtube.com/watch?v=eWTuFoBYiwg)
 - []()
 - []()
 - []()
