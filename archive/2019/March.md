@@ -9,4 +9,7 @@
 - [The difference between an expression and a statement in JavaScript](https://www.youtube.com/watch?v=eWTuFoBYiwg)
 - [Simplicity Is Not Simple](https://www.youtube.com/watch?v=9hohuqj-yI8)
 - [40: Lift as you Climb with Cassidy Williams. On React, Redux, and GraphQL at CodePen, teaching, @smkmeetup, following your dreams (literally), and building your dream network](https://reactpodcast.simplecast.fm/40)
-- []()
+- [VSCode In The Cloud! - Setup a Remote Dev Environment](https://www.youtube.com/watch?v=9Emn2YQNDl0)
+- [Using React.useReducer to avoid state bugs](https://www.youtube.com/watch?v=Vi_46Io0UZc)
+- [Using `void` to make arrow functions return nothing](https://www.youtube.com/watch?v=OCTFOsCvcNs)
+- [The difference between an expression and a statement in JavaScript](https://www.youtube.com/watch?v=OCTFOsCvcNs)
